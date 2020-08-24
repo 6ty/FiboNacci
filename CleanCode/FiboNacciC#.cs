@@ -4,7 +4,7 @@ public class FibonacciNumbers{
         
             int n1=0,n2=1,n3,i,number;
 
-        Console.Write("Ievadiet elementa numuru: ");
+        Console.Write("Enter number of the element ");
         number = int.Parse(Console.ReadLine());
         Console.Write(n1+" "+n2+" ");
 
